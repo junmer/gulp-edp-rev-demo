@@ -12,5 +12,13 @@ edp update
 gulp
 edp webserver start
 ```
+
+## Demo
+
 - open <http://127.0.0.1:8868> show source demo
+
+![source](./doc/source.png)
+
 - open <http://127.0.0.1:8868/dist> show dist demo
+
+![dist](./doc/dist.png)
