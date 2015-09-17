@@ -22,3 +22,10 @@ edp webserver start
 - open <http://127.0.0.1:8868/dist> show dist demo
 
 ![dist](./doc/dist.png)
+
+## Related
+
+- [edp](https://github.com/ecomfe/edp)
+- [gulp](https://github.com/gulpjs/gulp)
+- [gulp-edp](https://github.com/junmer/gulp-edp)
+- [gulp-rev-all](https://github.com/smysnk/gulp-rev-all)
