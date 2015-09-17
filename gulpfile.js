@@ -27,11 +27,10 @@ gulp.task('edp', ['clean'], function () {
 
     return gulp.src(
             [
-                'src/**/*.js',
-                'dep/**/*.js',
+                'src/**',
+                'dep/**',
                 '!dep/**/{demo,demo/**}',
                 '!dep/**/{test,test/**}',
-                'src/**/*.css',
                 '*.html'
             ]
         )
